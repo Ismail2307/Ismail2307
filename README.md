@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismail2307
+- 👋 Hi, I’m @planurfut
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on Instagram
