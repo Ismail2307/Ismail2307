@@ -11,7 +11,7 @@
 <p>Everything starts with yourself</p>
 
 <hr>
-<h1 align="center">Hi there 👋, I'm Bill</h1>
+<h1 align="center">Hi there 👋, I'm Ismail</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code+and+build+cool+stuff!;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
